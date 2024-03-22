@@ -1,17 +1,9 @@
 <img src="./README_Assets/banner.png" width="100%"/>
 
 ## What is it?
-Shield is a real-time chat app designed to give Independent Fundamental Baptists a place they can speak openly about Jesus without the worry of being canceled by big corporations.
+NerdChat was forked from another project called Shield from an Independent Fundamentalist Baptist. It is mainly just for testing purposes to see how stuff works and also to make a chat app for our "company", CBit. 
 
-## Is your information safe?
-I feel it is important in our modern world to make sure people know what you will do with information about them. And Shield is no exception. Shield does not collect information about you. The most information we will collect is if <b>you</b>, the user, send messages with <b>your</b> personal information. This information is stored in the database with the rest of the messages. We don't seek to use your information or sell it.
-
-## Why use Shield compared to other chat apps like Discord, Messenger, etc?
-Other than Shield being directed towards Independent Fundamental Baptists, there isn't much that makes it stand out. I don't like to say that but it is true. In it's current state, it has only the features an average chat app has.
-
-## What Operating Systems is Shield on?
-Currently there is only a Windows and Android app. You can download it on the [Itch.io page](https://kenyonbwrs.itch.io/shield).
-
+you can check out who we forked this project from  [here](https://kenyonbowers.itch.io/shield)
 ## Screenshots and Videos:
 <div>
     <img src="./README_Assets/screenshot_1.png" width="200"/>
